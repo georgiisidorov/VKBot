@@ -1,3 +1,0 @@
-poetry
-https://github.com/timoniq/vkbottle/archive/master.zip
-https://github.com/timoniq/vkbottle-types/archive/master.zip
